@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack | Arquiteto de Sistemas`**
 
-O meu nome é Ferreira (conhecido como Felmar). Sou um entusiasta por tecnologia baseado em Moçambique, focado em transformar lógica complexa em soluções funcionais e escaláveis. Atualmente, estou a trilhar o currículo do **The Odin Project** e a preparar o terreno para a especialização na **Universidade de Helsínquia (Full Stack Open)**. O meu grande objetivo é a construção de arquiteturas robustas, como a minha própria Exchange de Criptomoedas.
+O meu nome é Ferreira (conhecido como Felmar). Sou um entusiasta por tecnologia baseado em Moçambique, focado em transformar lógica complexa em soluções funcionais e escaláveis. Atualmente, estou a trilhar o currículo do **The Odin Project** e a preparar o terreno para a especialização na **Universidade de Helsínquia (Full Stack Open)**. Focado na construção de arquiteturas robustas e escaláveis, explorando as melhores práticas de desenvolvimento web.
 
 <p align="left">
     <a href="https://github.com/Felmar-sys?tab=repositories&sort=stargazers">
