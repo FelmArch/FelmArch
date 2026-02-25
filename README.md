@@ -23,10 +23,10 @@ O meu foco é construir fundações inabaláveis em engenharia de software. Atua
 
 ### 💻 Linguagens & Ecossistema
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" style="padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" style="padding-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="padding-right: 15px;" />
+<p align ="left">
+    <img src="./icons/linguagens/html5-original.svg" height="40" alt="MTLM5" style="padding-right: 15px;" />
+    <img src="./icons/linguagens/css3-original.svg" height="40" alt="CSS3" style="padding-right: 15px;" />
+    <img src="./icons/linguagens/javascript-original.svg" height="40" alt="JavaScript" style="padding-right: 15px;" />
 </p>
 
 ### ⚙️ Arquitetura & Ferramentas
