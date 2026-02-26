@@ -42,13 +42,14 @@ O meu foco é construir fundações inabaláveis em engenharia de software. Atua
 
 <br/>
 
-### 📊 Telemetria & Atividade
+### 📊 Telemetria de Código
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felmar-sys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=55960c&icon_color=55960c&text_color=c9d1d9&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felmar-sys&layout=compact&hide_border=true&bg_color=0D1117&title_color=55960c&text_color=c9d1d9&langs_count=6" />
+</p>
 
-<p align="left">
-
-  <img src="https://img.shields.io/github/last-commit/Felmar-sys/o-projeto-odin?style=for-the-badge&color=55960c&label=Ultimo%20Commit&labelColor=0D1117" alt="Ultimo Commit" />
-  <img src="https://img.shields.io/github/languages/top/Felmar-sys/o-projeto-odin?style=for-the-badge&color=236ad3&label=Linguagem&labelColor=0D1117" alt="Linguagem Principal" />
-  <img src="https://img.shields.io/github/repo-size/Felmar-sys/o-projeto-odin?style=for-the-badge&color=55960c&label=Tamanho&labelColor=0D1117" alt="Tamanho" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=felmar-sys&theme=tokyonight&hide_border=true&stroke=55960c&ring=55960c&fire=55960c" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -64,4 +65,7 @@ O meu foco é construir fundações inabaláveis em engenharia de software. Atua
         <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn" />
     </a>
     -->
+    <a href="https://www.buymeacoffee.com/TEU_USER_AQUI" target="_blank">
+        <img src="https://img.shields.io/badge/Apoie_o_Hardware-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    </a>
 </p>
