@@ -7,13 +7,13 @@ O nome , **Felmar**, é uma homenagem aos meus falecidos pais: **Luciano** e **M
 ### 🔬 A Jornada Técnica.
 Não escolhi a programação apenas para mudar de vida, mas porque encontrei na Ciência da Computação uma lógica que me completa. 
 
-*   **O Caminho:** Passei por tutoriais e pelo FreeCodeCamp, mas senti que precisava de algo real. No **The Odin Project**, encontrei o profissionalismo que procurava. O meu plano é dominar o Full Stack JavaScript e, em seguida, atingir o nível de elite com o **Full Stack Open da Universidade de Helsínquia**.
-*   **A Filosofia:** Pratico o *Mastery Learning*. Não salto etapas e não engano o meu próprio progresso. A luta é contra mim mesmo e contra as distrações. Entender a lógica é o meu único norte.
+*   **O Caminho:** Passei por tutoriais e pelo FreeCodeCamp, mas senti que precisava de algo real. No *The Odin Project*, encontrei o profissionalismo que procurava. O meu plano é consolidar o **Full Stack JavaScript** e, de seguida, continuar a especializar-me no nível de elite com o **Full Stack Open** da *Universidade de Helsínquia*.
+*   **A Filosofia:** Pratico o *Mastery Learning*. Não saltar etapas e não enganar o meu próprio progresso. A luta é contra mim mesmo e contra as distrações. Entender a lógica é o meu único norte.
 
 ### 🛠️ O Desafio da Infraestrutura.
 Atualmente, a minha maior barreira não é a lógica, mas a matéria. Estudo e construo sistemas num ambiente de extrema escassez:
 - **Hardware:** Um Intel i5-4570 com um HDD em estado crítico e uma tela com manchas permanentes. Cada linha de código é escrita numa corrida contra o tempo da máquina.
-- **Recursos:** Gero diariamente o equilíbrio entre megas de internet, estabilidade de energia e a subsistência básica para manter o foco total no ecrã (das 06h às 21h).
+- **Recursos:** Gero diariamente o equilíbrio entre megas de internet, estabilidade de energia e a subsistência básica para manter o foco total no ecrã (constantemente).
 
 ### 🏛️ O Manifesto da Gratidão.
 
@@ -23,7 +23,7 @@ A minha evolução técnica, não seria possível sem a **generosidade daqueles*
 
 Eles disponibilizam gratuitamente currículos que valem milhões, permitindo que alguém como eu possa, um dia, ser chamado de **Engenheiro de Software**.
 
-- O meu compromisso é honrar este acesso através de uma dedicação absoluta. Pretendo que, no futuro, o meu código possa retribuir e contribuir para a comunidade global de tecnologia — o ecossistema que hoje reconheço como a *minha nova **família***.
+- O meu compromisso é honrar este ato grandioso através de uma dedicação absoluta. Pretendo que, no futuro, o meu código possa retribuir e contribuir para a comunidade global de tecnologia — o ecossistema que hoje reconheço como a *minha nova **família***.
 
 ### 🎯 O Objetivo: Upgrade de Sistemas.
 Para simular arquiteturas massivas e garantir a consistência dos meus commits, foco na evolução da minha infraestrutura física:
