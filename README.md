@@ -62,7 +62,7 @@ O meu foco é construir fundações inabaláveis em engenharia de software. Atua
 
 <p align="left">
   <!-- E-mail Profissional -->
-  <a href="mailto:TEU_EMAIL_AQUI@gmail.com">
+  <a href="mailto:Ferrlinda.seo@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
   </a>
   
