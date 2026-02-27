@@ -73,3 +73,9 @@ O meu foco é construir fundações inabaláveis em engenharia de software. Atua
         <img src="https://img.shields.io/badge/Apoie_o_Hardware-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
     </a>
 </p>
+
+<p align="left">
+  <a href="./SUPPORT.md">
+    <img src="https://img.shields.io/badge/Apoiar_a_Jornada-0D1117?style=for-the-badge&logo=heart&logoColor=55960c&labelColor=0D1117&border=55960c" alt="Apoiar" />
+  </a>
+</p>
