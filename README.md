@@ -61,21 +61,21 @@ O meu foco é construir fundações inabaláveis em engenharia de software. Atua
 ### 📡 Transmissão / Contato
 
 <p align="left">
-    <a href="mailto:TEU_EMAIL_AQUI@gmail.com">
-        <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
-    </a>
-    <!-- Quando tiveres o teu LinkedIn, apaga esta linha e a linha de baixo com a seta, e substitui o LINK_DO_TEU_LINKEDIN
-    <a href="LINK_DO_TEU_LINKEDIN">
-        <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn" />
-    </a>
-    -->
-    <a href="https://www.buymeacoffee.com/TEU_USER_AQUI" target="_blank">
-        <img src="https://img.shields.io/badge/Apoie_o_Hardware-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-    </a>
-</p>
-
-<p align="left">
+  <!-- E-mail Profissional -->
+  <a href="mailto:TEU_EMAIL_AQUI@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
+  </a>
+  
+  <!-- Link Silencioso para o Manifesto de Apoio -->
   <a href="./SUPPORT.md">
-    <img src="https://img.shields.io/badge/Apoiar_a_Jornada-0D1117?style=for-the-badge&logo=heart&logoColor=55960c&labelColor=0D1117&border=55960c" alt="Apoiar" />
+    <img src="https://img.shields.io/badge/Apoiar_a_Jornada-0D1117?style=for-the-badge&logo=heart&logoColor=55960c&labelColor=0D1117" alt="Apoiar" />
   </a>
 </p>
+
+<!-- O LinkedIn fica escondido aqui até teres a conta pronta -->
+<!-- 
+<a href="LINK_DO_TEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn" />
+</a>
+-->
+
