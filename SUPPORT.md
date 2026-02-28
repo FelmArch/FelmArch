@@ -21,7 +21,7 @@ A minha evolução técnica, não seria possível sem a **generosidade daqueles*
 
 - Expresso imensamente a minha profunda gratidão aos **mentores e fundadores** do The Odin Project e do Full Stack Open (Helsínquia), e a todos que, direta ou indiretamente, abriram este caminho para mim.
 
-Eles disponibilizam gratuitamente currículos que valem milhões, permitindo que alguém como eu possa, um dia, ser chamado de **Engenheiro de Software**.
+Eles disponibilizam gratuitamente currículos que valem milhões, permitindo que alguém como eu possa, um dia, ser chamado de **Engenheiro de Software Full Stack**.
 
 - O meu compromisso é honrar este ato grandioso através de uma dedicação absoluta. Pretendo que, no futuro, o meu código possa retribuir e contribuir para a comunidade global de tecnologia — o ecossistema que hoje reconheço como a *minha nova **família***.
 

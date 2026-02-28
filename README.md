@@ -15,7 +15,7 @@
 
 A traduzir lógica pura em sistemas robustos. 
 
-O meu foco é construir fundações inabaláveis em engenharia de software. Atualmente a Consolidar os pilares do ecossistema web moderno, estruturando o conhecimento lógico e arquitetural para o desenvolvimento futuro de aplicações SPA (Single Page Applications) e APIs RESTful escaláveis. 
+O meu foco é construir fundações inabaláveis em engenharia de software e Sistemas. Atualmente a Consolidar os pilares do ecossistema web moderno, estruturando o conhecimento lógico e arquitetural para o desenvolvimento futuro de aplicações SPA (Single Page Applications) e APIs RESTful escaláveis. 
 
 <br/>
 
