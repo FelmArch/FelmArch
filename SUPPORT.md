@@ -52,3 +52,6 @@ Por favor, considere apoiar através dos seguintes meios:
 <br>
 
 > "Obrigado por investires na transformação real de uma vida. Com este gesto, não estás apenas a investir em hardware; estás a financiar a evolução de um desenvolvedor e a construir, comigo, um futuro, impulsionando soluções para o mundo e tornando-te parte de cada uma delas."
+
+---
+[<img src="https://img.shields.io/badge/VOLTAR_AO_PERFIL_PRINCIPAL-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Felmar-sys)
