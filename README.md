@@ -7,11 +7,10 @@
         <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Felmar-sys?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
     </a>
     <a href="https://github.com/Felmar-sys?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Felmar-sys?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+        <img alt="Seguidores" title="Me siga no GitHub" src="https://img.shields.io/github/followers/Felmar-sys?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
 </p>
 
----
 
 A traduzir lógica pura em sistemas robustos. 
 
