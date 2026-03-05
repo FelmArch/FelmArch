@@ -11,10 +11,11 @@
     </a>
 </p>
 
+<br>
 
-A traduzir lógica pura em sistemas robustos. 
+Traduzindo lógica pura em arquitetura de software. 
 
-O meu foco é construir fundações inabaláveis em engenharia de software e Sistemas. Atualmente a Consolidar os pilares do ecossistema web moderno, estruturando o conhecimento lógico e arquitetural para o desenvolvimento futuro de aplicações SPA (Single Page Applications) e APIs RESTful escaláveis. 
+Atualmente a dominar o ecossistema Full Stack (JavaScript/Node.js) através de uma abordagem orientada a fundamentos. A minha meta é transformar conceitos abstratos em APIs RESTful e SPAs de alta performance.
 
 <br/>
 
