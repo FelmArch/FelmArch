@@ -11,17 +11,19 @@ Não escolhi a programação apenas para mudar de vida, mas porque encontrei na 
 
 *   **O Caminho:** Após explorar diversas plataformas, estabeleci o meu foco no *The Odin Project* pela sua exigência profissional e profundidade. 
 
-O meu plano é consolidar o **Full Stack JavaScript** e, de seguida, continuar a especializar-me no nível de elite com o **Full Stack Open** da *Universidade de Helsínquia*.
+* **O Plano:** consolidar o **Full Stack JavaScript** e, de seguida, continuar a especializar-me no nível de elite com o **Full Stack Open** da *Universidade de Helsínquia*.
 
-*   **A Filosofia:** Pratico o *Mastery Learning*. Não saltar etapas e não enganar o meu próprio progresso. A luta é contra mim mesmo e contra as distrações. Entender a lógica é o meu único norte.
+*   **A Filosofia:** Pratico o *Mastery Learning*. Não salto etapas e não engano o meu próprio progresso. A luta é contra mim mesmo e contra as distrações. Entender a lógica é o meu único norte.
 
 ### 🛠️ O Desafio da Infraestrutura.
 
 Atualmente, a minha maior barreira não é a lógica, mas a matéria. Estudo e construo sistemas num ambiente de extrema escassez:
 
-- **Hardware:** Estudo num Intel i5-4570 com um HDD em estado crítico e uma tela com manchas permanentes e degradado. Cada linha de código é escrita numa corrida contra o tempo da máquina.
+- **Hardware Aual:** Recentemente migrei para um SSD de 256GB (uma vitória tática), 
+mas ainda opero num processador Intel i5-4570 e um monitor com manchas permanentes. Cada linha de código é uma corrida contra a exaustão do hardware.
 
-- **Recursos:** Gero diariamente o equilíbrio entre megas de internet, estabilidade de energia e a subsistência básica para manter o foco total no ecrã (constantemente).
+- **Recursos:** Gero diariamente o equilíbrio crítico entre megas de internet, 
+estabilidade de energia e a subsistência básica para manter o foco total no ecrã.
 
 ### 🏛️ O Manifesto da Gratidão.
 
