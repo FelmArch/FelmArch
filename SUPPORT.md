@@ -35,14 +35,17 @@ A minha evolução técnica, é impulsionada pela generosidade **de instituiçõ
 - O meu compromisso é honrar este ato grandioso através de uma dedicação absoluta. Pretendo que, no futuro, o meu código retribua à comunidade global — o ecossistema que hoje reconheço como a *minha nova **família***.
 
 ### 🎯 O Objetivo: Upgrade de Sistemas.
-Para suportar simulações complexas e arquiteturas massivas, foco no upgrade da minha estação de trabalho:
+Para suportar simulações de sistemas complexos, arquiteturas de containers e processamento massivo de dados, foco na expansão da minha estação de trabalho para padrões de engenharia de ponta:
 
-- **Hardware:** Transição para componentes de alta performance com foco em eficiência bruta (**Base ASRock X870E Taichi Lite / Ryzen AM5**).
+- **Processamento:** Transição para uma plataforma de computação de alto desempenho, focada em eficiência térmica e estabilidade sob carga extrema.
 
-- **Conectividade:** Implementação de internet estável (Starlink) para eliminar a barreira da latência e dos megas limitados.
+- **Conectividade:** Implementação de rede via satélite de baixa latência para eliminar barreiras geográficas de produção.
+
+- **Sustentabilidade:** Arquitetura de componentes selecionada para longevidade operacional de ciclo longo (10 anos+).
 
 - **Transparência:** Detalhes técnicos e o orçamento discriminado desta infraestrutura estão disponíveis mediante solicitação. *Por favor, Sinta-se a vontade para saber mais.*
-[<img src="https://img.shields.io/badge/Ver_Orçamento_Detalhado-0D1117?style=for-the-badge&logo=google-sheets&logoColor=34A853&labelColor=0D1117" />](Auditando...)
+
+[<img src="https://img.shields.io/badge/Solicitar_Orçamento_Detalhado-0D1117?style=for-the-badge&logo=google-sheets&logoColor=34A853&labelColor=0D1117" />](Auditando...)
 
 ### ☕ Como Apoiar a Jornada.
 
