@@ -69,7 +69,7 @@ Atualmente a dominar o ecossistema Full Stack (JavaScript/Node.js) através de u
     <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
   </a>
   
-  <!-- Link Silencioso para o Manifesto de Apoio -->
+  <!-- link futuro-->
   <a>
     <img src="https://img.shields.io/badge/Apoiar_a_Jornada-0D1117?style=for-the-badge&logo=heart&logoColor=55960c&labelColor=0D1117" alt="Apoiar" />
   </a>
