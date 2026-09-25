@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Felmar (Ferreira)
 
-**`Software Developer | JavaScript Full Stack`**
+**`Software Developer | Full Stack (JavaScript) — em formação`**
 
 > **Handle:** FelmArch  
 
@@ -18,11 +18,31 @@
 
 > *`Transformando lógica pura em sistemas robustos.`*
 
-Atualmente a consolidar o ecossistema Full Stack (JavaScript/Node.js) através de uma abordagem orientada a fundamentos. A minha meta é evoluir fundamentos sólidos para construir APIs RESTful e SPAs de alta performance.
+Em nível intermediário, a consolidar o ecossistema Full Stack (JavaScript) projeto a projeto. A minha meta é construir APIs RESTful e SPAs de alta performance. O código é privado por política.
 
 <br/>
 
-> 🔄 **Checkpoint Atual:** JavaScript Foundations
+> 🔄 **Nível Atual:** Intermediário
+
+### 🚀 Projetos Entregues
+
+<details>
+<summary>🧱 <strong>Fundamentos</strong> — 5 projetos publicados e a funcionar</summary>
+
+- **Receitas** — [demo](https://felmarch.github.io/odin-recipes/) · [código](https://github.com/FelmArch/odin-recipes)
+- **Landing Page** — [demo](https://felmarch.github.io/Landing-page/) · [código](https://github.com/FelmArch/Landing-page)
+- **Pedra, Papel e Tesoura** — [demo](https://felmarch.github.io/rock-paper-scissors/) · [código](https://github.com/FelmArch/rock-paper-scissors)
+- **Etch-a-Sketch** — [demo](https://felmarch.github.io/Etch-a-Sketch/) · [código](https://github.com/FelmArch/Etch-a-Sketch)
+- **Calculadora** — [demo](https://felmarch.github.io/odin-calculator/) · [código](https://github.com/FelmArch/odin-calculator)
+
+</details>
+
+<details>
+<summary>🧪 <strong>Nível Intermediário</strong> — em construção</summary>
+
+Projetos deste nível entram aqui quando forem entregues.
+
+</details>
 
 
 
@@ -59,6 +79,10 @@ Atualmente a consolidar o ecossistema Full Stack (JavaScript/Node.js) através d
   <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felmArch&layout=compact&hide_border=true&bg_color=0D1117&title_color=55960c&text_color=c9d1d9&langs_count=6" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelmArch&theme=github_dark" />
+</p>
+
 <br/>
 
 ### 📡 Transmissão / Contato
@@ -69,10 +93,11 @@ Atualmente a consolidar o ecossistema Full Stack (JavaScript/Node.js) através d
     <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
   </a>
   
-  <!-- link futuro-->
-  <a>
+  <!-- Apoio a Jornada: desativado ate ter destino real.
+  <a href="LINK_DE_APOIO">
     <img src="https://img.shields.io/badge/Apoiar_a_Jornada-0D1117?style=for-the-badge&logo=heart&logoColor=55960c&labelColor=0D1117" alt="Apoiar" />
   </a>
+  -->
 </p>
 
 <!-- O LinkedIn fica escondido aqui até a conta pronta -->
@@ -81,5 +106,24 @@ Atualmente a consolidar o ecossistema Full Stack (JavaScript/Node.js) através d
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn" />
 </a>
 -->
+
+<details>
+<summary>🇬🇧 English version</summary>
+
+**`Software Developer | Full Stack (JavaScript) — in progress`**
+
+I maintain my own systems, published on my own server: specification, operating rules
+and delivery validation are mine. The code stays private by policy.
+
+**Current level:** Intermediate
+
+**Delivered projects:** static pages and small JavaScript interactions, all live —
+[recipes](https://felmarch.github.io/odin-recipes/) ·
+[landing page](https://felmarch.github.io/Landing-page/) ·
+[rock paper scissors](https://felmarch.github.io/rock-paper-scissors/) ·
+[etch-a-sketch](https://felmarch.github.io/Etch-a-Sketch/) ·
+[calculator](https://felmarch.github.io/odin-calculator/)
+
+</details>
 
 
