@@ -18,8 +18,7 @@
 
 > *`Transformando lógica pura em sistemas robustos.`*
 
-Em nível intermediário, a consolidar o ecossistema Full Stack (JavaScript) projeto a projeto. A minha meta é construir APIs RESTful e SPAs de alta performance. O código é privado por política.
-
+A consolidar competências em JavaScript e desenvolvimento Full Stack, criando aplicações web completas do frontend ao backend.
 <br/>
 
 > 🔄 **Nível Atual:** Intermediário
@@ -39,6 +38,15 @@ Em nível intermediário, a consolidar o ecossistema Full Stack (JavaScript) pro
 
 <details>
 <summary>🧪 <strong>Nível Intermediário</strong> — em construção</summary>
+
+Projetos deste nível entram aqui quando forem entregues.
+
+</details>
+
+</details>
+
+<details>
+<summary>🧠 <strong>Nível Avançado</strong> — em construção</summary>
 
 Projetos deste nível entram aqui quando forem entregues.
 
