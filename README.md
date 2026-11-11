@@ -115,23 +115,5 @@ Projetos deste nível entram aqui quando forem entregues.
 </a>
 -->
 
-<details>
-<summary>🇬🇧 English version</summary>
-
-**`Software Developer | Full Stack (JavaScript) — in progress`**
-
-I maintain my own systems, published on my own server: specification, operating rules
-and delivery validation are mine. The code stays private by policy.
-
-**Current level:** Intermediate
-
-**Delivered projects:** static pages and small JavaScript interactions, all live —
-[recipes](https://felmarch.github.io/odin-recipes/) ·
-[landing page](https://felmarch.github.io/Landing-page/) ·
-[rock paper scissors](https://felmarch.github.io/rock-paper-scissors/) ·
-[etch-a-sketch](https://felmarch.github.io/Etch-a-Sketch/) ·
-[calculator](https://felmarch.github.io/odin-calculator/)
-
-</details>
 
 
