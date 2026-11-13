@@ -37,9 +37,9 @@ A consolidar competências em JavaScript e desenvolvimento Full Stack, criando a
 </details>
 
 <details>
-<summary>🧪 <strong>Nível Intermediário</strong> — em construção</summary>
+<summary>🧪 <strong>Nível Intermediário</strong> — 1 projeto publicado e a funcionar</summary>
 
-Projetos deste nível entram aqui quando forem entregues.
+- **Sign-up Form** — [demo](https://felmarch.github.io/sign-up-form/) · [código](https://github.com/FelmArch/sign-up-form)
 
 </details>
 
@@ -114,6 +114,7 @@ Projetos deste nível entram aqui quando forem entregues.
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn" />
 </a>
 -->
+
 
 
 
